@@ -1,0 +1,378 @@
+.nav-item{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    padding: 7px;
+    color: black;
+  
+    
+    
+}
+
+.navbar{
+    background-color: white;
+    height: 70px;
+    
+    
+    
+
+}
+.navbar-brand{
+    
+
+    font-family: "Bangers", system-ui;
+
+
+    
+}
+
+.nav-link:hover{
+    background-color: skyblue;
+    transition: 2s;
+
+    border-radius: 7px;
+}
+
+
+h1{
+
+    font-family: "Bangers", system-ui;
+
+    
+
+}
+#exampleInputPassword1{
+    height: 100px;
+  
+}
+.btn{
+    font-family: "Parkinsans", sans-serif;
+    background-color: #1F509A;
+}
+#v1{
+    width: 340px;
+    border-radius: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+#v1{
+    width: 340px;
+    border-radius: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+#v1{
+    width: 340px;
+    border-radius: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}#v1{
+    width: 340px;
+    border-radius: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}#v1{
+    width: 340px;
+    border-radius: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}#v1{
+    width: 340px;
+    border-radius: 5px;
+    margin-right: 5px;
+    padding: 5px;
+}
+#f1{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#f2{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#f3{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#f4{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#f5{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#f6{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#s1{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#s2{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#s3{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#s4{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#s5{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#s6{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#p1{
+    width: 365px;
+    border-radius: 5px;
+    height: 250px;
+}
+#p2{
+    width: 365px;
+    border-radius: 5px;
+    height: 250px;
+}
+#p3{
+    width: 360px;
+    border-radius: 5px;
+    height: 250px;
+}
+#p4{
+    width: 360px;
+    border-radius: 5px;
+    height: 250px;
+}
+#p5{
+    width: 360px;
+    border-radius: 5px;
+    height: 250px;
+}
+#p6{
+    width: 360px;
+    border-radius: 5px;
+    height: 250px;
+}
+#c1{
+    width: 355px;
+    border-radius: 5px;
+    height: 250px;
+}
+#c2{
+    width: 355px;
+    border-radius: 5px;
+    height: 250px;
+}
+#c3{
+    width: 355px;
+    border-radius: 5px;
+    height: 250px;
+}
+#c4{
+    width: 355px;
+    border-radius: 5px;
+    height: 250px;
+}
+#c5{
+    width: 355px;
+    border-radius: 5px;
+    height: 250px;
+}
+#c6{
+    width: 355px;
+    border-radius: 5px;
+    height: 250px;
+}
+#m1{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#m2{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#m3{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#m4{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#m5{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#m6{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#v1{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#v2{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#v3{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#v4{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#v5{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#v6{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#w1{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#w2{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#w3{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#w4{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#w5{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+#w6{
+    width: 380px;
+    border-radius: 5px;
+    height: 250px;
+}
+/* footer */
+.footer{
+    background-color: black;
+}
+.footer .footer-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 3.5rem;
+    padding: 60px;
+  }
+  .footer-row .footer-col h4 {
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 400;
+  }
+  /* .footer-col .links {
+    margin-top: 20px;
+  } */
+  /* .footer-col .links li {
+    list-style: none;
+    margin-bottom: 10px;
+  } */
+  .footer-col .links li a {
+    text-decoration: none;
+    color: #bfbfbf;
+  }
+  .footer-col .links li a:hover {
+    color: #fff;
+  }
+  /* .footer-col p {
+    margin: 20px 0;
+    color: #bfbfbf;
+    max-width: 300px;
+  } */
+  /* .footer-col form {
+    display: flex;
+    gap: 5px;
+  }
+  .footer-col input {
+    height: 40px;
+    border-radius: 6px;
+    background: none;
+    width: 100%;
+    outline: none;
+    border: 1px solid #7489C6 ;
+    caret-color: #fff;
+    color: #fff;
+    padding-left: 10px;
+  } */
+  /* .footer-col input::placeholder {
+    color: #ccc;
+  } */
+   /* .footer-col form button {
+    background: #fff;
+    outline: none;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: 0.2s ease;
+  }
+  .footer-col form button:hover {
+    background: #cecccc;
+  } */
+  .footer-col .icons {
+    display: flex;
+    margin-top: 30px;
+    gap: 30px;
+    cursor: pointer;
+  }
+  .footer-col .icons i {
+    color: #afb6c7;
+  }
+  .footer-col .icons i:hover  {
+    color: #fff;
+  }
+  hr{
+    width: 400px;
+  }
+  
+  
+  
+  
